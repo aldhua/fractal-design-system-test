@@ -1,4 +1,4 @@
-.atoms {
+:root {
   --fd-color-purple-50: #f0ecf5;
   --fd-color-purple-100: #e0d1ff;
   --fd-color-purple-200: #cdbfea;
@@ -109,9 +109,6 @@
   --fd-font-size-link-medium: 14px;
   --fd-font-size-link-small: 12px;
   --fd-font-size-helper-text: 10px;
-  --fd-font-weight-bold: 700;
-  --fd-font-weight-regular: 400;
-  --fd-font-weight-light: 300;
   --fd-line-height-heading-desktop-large: 56;
   --fd-line-height-heading-desktop-medium: 42;
   --fd-line-height-heading-desktop-small: 28;
@@ -160,4 +157,6 @@
   --fd-typography-helper-text-bold-underlined: 700 10px/12 Mulish;
   --fd-typography-helper-text-regular-underlined: 400 10px/12 Mulish;
   --fd-typography-subheading: 700 18px/24 Mulish;
+  --fd-color-button-bg-primary-enabled: #7d4dbe;
+  --fd-color-text-white: #ffffff;
 }
