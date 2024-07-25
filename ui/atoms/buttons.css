@@ -1,4 +1,5 @@
 .button-primary-enabled {
+  /* Styles copied from Figma Dev Mode */
   display: flex;
   height: var(--fd-space-1000);
   padding: var(--fd-space-400);
@@ -6,13 +7,14 @@
   align-items: center;
   gap: var(--fd-space-150);
   border-radius: var(--fd-border-radius-lg);
-  
   color: var(--fd-color-text-white);
   text-align: center;
-
+  
+  /* Manually implemented styles defined in Figma but not reflected in Dev Mode */
   background: var(--fd-color-button-bg-primary-enabled);
   font: var(--fd-typography-body-medium-bold);
-  
+
+  /* Complementary styles that Figma doesn't specify */
   border: 0;
   cursos: pointer;
   position: relative;
