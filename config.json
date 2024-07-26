@@ -1,9 +1,8 @@
 {
   "source": ["studio.json"],
-  "preprocessors": ["tokens-studio"],
   "platforms": {
     "css": {
-      "transformGroup": "tokens-studio",
+      "transformGroup": "css",
       "transforms": ["name/kebab"],
       "buildPath": "build/css/",
       "prefix": "fd",
