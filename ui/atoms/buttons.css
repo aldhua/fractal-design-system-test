@@ -1,4 +1,4 @@
-.button-primary-enabled {
+.button {
   /* Styles copied from Figma Dev Mode */
   display: flex;
   height: var(--fd-space-1000);
@@ -16,6 +16,6 @@
 
   /* Complementary styles that Figma doesn't specify */
   border: 0;
-  cursos: pointer;
+  cursor: pointer;
   position: relative;
 }
