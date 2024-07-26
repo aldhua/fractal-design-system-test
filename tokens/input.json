@@ -986,6 +986,18 @@
       "type": "typography"
     }
   },
+  "color-button-bg": {
+    "primary-enabled": {
+      "value": "#7d4dbe",
+      "type": "color"
+    }
+  },
+  "color-text": {
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
   "tokenSetOrder": {
     "0": {
       "value": "Global Tokens/Value",
