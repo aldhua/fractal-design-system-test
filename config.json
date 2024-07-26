@@ -14,15 +14,5 @@
         }
       ]
     },
-    "js": {
-      "transformGroup": "tokens-studio",
-      "buildPath": "build/js/",
-      "files": [
-        {
-          "destination": "variables.js",
-          "format": "javascript/es6"
-        }
-      ]
-    }
   }
 }
